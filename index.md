@@ -1,11 +1,12 @@
-CV
-Sourav Das
-Ph.D. Candidate | Battery Researcher | Sustainability Enthusiast
+---
+title: "Sourav Das"
+author: "Sourav Das"
+description: "Ph.D. Candidate | Battery Researcher | Electrochemical Sensing | Sustainable Materials"
 theme: minima
 ---
 
 # **Sourav Das**  
-Ph.D. Candidate in Mechanical Engineering at Iowa State University  
+Ph.D. Candidate in Mechanical Engineering | Energy & Sustainability Researcher  
 
 📍 Ames, Iowa, USA  
 🔗 [LinkedIn](https://www.linkedin.com/in/souravds1/) | [GitHub](https://github.com/souravds1/Portfolio) | [Google Scholar](#) |  
@@ -15,20 +16,23 @@ Ph.D. Candidate in Mechanical Engineering at Iowa State University
 ## **Personal Homepage**  
 🔹 [Research](#research)  
 🔹 [Publications](#publications)  
-🔹 [Talks](#talks)  
-🔹 [Teaching](#teaching)  
+🔹 [Talks & Conferences](#talks--conferences)  
+🔹 [Teaching & Mentorship](#teaching--mentorship)  
 🔹 [CV](#cv)  
 
 ---
 
 ## **Short Bio**  
-Sourav Das is a **Ph.D. candidate in Mechanical Engineering** at **Iowa State University**, working in collaboration with **Ames National Laboratory**. His research focuses on **battery failure analysis, electrochemical sensing, and sustainable material recycling**. He has **4 years of industry experience** in **pipeline stress analysis and project management** and is currently developing **physics-based models and AI-driven battery prognostics**.  
+I am a **Ph.D. candidate in Mechanical Engineering** at **Iowa State University**, collaborating with **Ames National Laboratory**. My research focuses on **battery failure analysis, electrochemical sensing, and sustainable material recycling**, aiming to advance next-generation **energy storage and sustainable technologies**.  
+
+With **4 years of industry experience** in **pipeline stress analysis and project management**, I bring a strong **mechanical and materials engineering** foundation to **multiscale modeling, material characterization, and system-level analysis**. My expertise extends to **AI-driven battery diagnostics, advanced electrochemical measurement techniques, and sustainable energy solutions**.  
 
 ---
 
 ## **Education**  
 🎓 **Ph.D. in Mechanical Engineering**, *Iowa State University (2022–2026)*  
    - *Thesis:* "Estimation and Characterization of Plated Dead Lithium in Batteries"  
+   - Focus: **Battery degradation, electrochemical sensing, physics-based modeling**  
 
 🎓 **B.Tech in Mechanical Engineering**, *JGEC, MAKAUT, India (2014–2018)*  
    - *Thesis:* "Optimal Shape and Structure Design of an Autonomous Underwater Vehicle"  
@@ -38,22 +42,24 @@ Sourav Das is a **Ph.D. candidate in Mechanical Engineering** at **Iowa State Un
 ## **Professional Experience**  
 ### **Graduate Research Assistant** *(2022–Present)*  
 **Iowa State University & Ames National Laboratory, USA**  
-- Developing **physics-based models** for lithium-ion battery failure prediction  
-- Investigating **electrochemical sensing** for **non-invasive battery diagnostics**  
-- Optimizing **sustainable recycling** strategies for lithium-ion batteries  
+- Developed **physics-based models** for **battery failure prediction** and **electrochemical degradation mechanisms**  
+- Designed **in-situ electrochemical sensing techniques** for real-time battery health diagnostics  
+- Led research on **sustainable lithium-ion battery recycling and recovery strategies**  
+- Applied **machine learning & AI** for **predictive battery maintenance** and **smart charging strategies**  
 
-### **Design Engineer (Piping)** *(2018–2022)*  
+### **Design Engineer (Piping & Energy Systems)** *(2018–2022)*  
 **Worley (Jacobs Engineering), India**  
-- Conducted **stress analysis** and **pipeline design** for chemical plants and refineries  
-- Led **multidisciplinary teams** in executing high-value pipeline projects globally  
+- Led **pipeline stress analysis and system design** for energy and chemical processing plants  
+- Managed **multi-disciplinary engineering projects** for global clients, ensuring compliance with **ASME/API pipeline codes**  
+- Designed **energy-efficient thermal systems** for **petrochemical, steel, and biofuel plants**  
 
 ---
 
 ## **Research**  
-🔹 **Battery Failure Analysis** – Physics-based digital twin models, fast charging impact  
-🔹 **Electrochemical Sensing** – EIS, GITT, ICA for battery health monitoring  
-🔹 **Sustainable Recycling** – Green lithium recovery from end-of-life batteries  
-🔹 **AI-driven Battery Prognostics** – Predicting degradation patterns using ML  
+🔹 **Energy Storage & Battery Safety** – Digital twin models, fast charging impact  
+🔹 **Electrochemical Sensing & Diagnostics** – Non-invasive detection of battery degradation  
+🔹 **Sustainable Materials & Recycling** – Green lithium recovery, circular economy solutions  
+🔹 **AI-driven Prognostics & Smart Charging** – ML models for predictive battery maintenance  
 
 ---
 
@@ -64,15 +70,17 @@ Sourav Das is a **Ph.D. candidate in Mechanical Engineering** at **Iowa State Un
 
 ---
 
-## **Talks & Presentations**  
+## **Talks & Conferences**  
 🎤 **William & Virginia Binger Symposium (2023, 2024)** – Best Poster Presentation  
 🎤 **ISU Graduate Conference (2024)** – Advances in Battery Recycling Technologies  
+🎤 **Electrochemical Society Meeting (2024)** – Non-invasive Sensing for Battery Health Monitoring  
 
 ---
 
 ## **Teaching & Mentorship**  
 👨‍🏫 **Graduate Teaching Assistant**, *Heat & Mass Transfer Lab (2022)*  
 🎓 **Undergraduate Mentor**, *Battery Safety & Fast Charging Experiments (2024)*  
+📢 **GPSS Senator (2024–2025)** – Representing 100+ graduate students at ISU  
 
 ---
 
@@ -84,14 +92,17 @@ Sourav Das is a **Ph.D. candidate in Mechanical Engineering** at **Iowa State Un
 ---
 
 ## **Professional Service & Leadership**  
-📢 **GPSS Senator (2024–2025)** – Representing 100+ graduate students at ISU  
 📢 **ME Graduate Student Organization Executive (2024–2025)** – Organized networking & symposium events  
+📝 **Reviewer** – Journal of the Electrochemical Society, Electrochimica Acta  
 
 ---
 
-## **Reviewer Activities**  
-📝 Journal of the Electrochemical Society  
-📝 Electrochimica Acta  
+## **Skills & Expertise**  
+🔹 **Computational & Modeling Tools** – COMSOL, MATLAB, Python (Numpy, SciPy, Torch), LAMMPS  
+🔹 **Electrochemical Techniques** – EIS, GITT, ICA, DVA for battery health monitoring  
+🔹 **Material Characterization** – XRD, ICP, TGA, DSC for failure analysis  
+🔹 **Industry Experience** – Pipeline stress analysis, thermal system design, energy optimization  
+🔹 **Soft Skills** – Leadership, Project Management, Cross-functional Collaboration  
 
 ---
 
