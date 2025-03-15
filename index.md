@@ -1,8 +1,7 @@
 ---
 title: "Sourav Das"
-author: "Sourav Das"
-description: "Ph.D. Candidate | Battery Researcher | Electrochemical Sensing | Sustainable Materials"
-theme: minima
+description: " Energy Storage Researcher | Mechanical Engineer| Piping Stress Engineer | Specializing in Multiphysics Modeling, Failure Analysis, Electrochemical Sensing, & Battery Material Recycling| "
+
 ---
 
 # **Sourav Das**  
