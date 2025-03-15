@@ -1,7 +1,6 @@
----
-title: CV
-author: "Sourav Das"
-description: "Ph.D. Candidate | Battery Researcher | Sustainability Enthusiast"
+CV
+Sourav Das
+Ph.D. Candidate | Battery Researcher | Sustainability Enthusiast
 theme: minima
 ---
 
@@ -9,7 +8,7 @@ theme: minima
 Ph.D. Candidate in Mechanical Engineering at Iowa State University  
 
 📍 Ames, Iowa, USA  
-🔗 [LinkedIn](https://www.linkedin.com/in/souravds1/) | [GitHub](https://github.com/souravds1/Portfolio) | [Google Scholar](#) | [ORCID](#)  
+🔗 [LinkedIn](https://www.linkedin.com/in/souravds1/) | [GitHub](https://github.com/souravds1/Portfolio) | [Google Scholar](#) |  
 
 ---
 
